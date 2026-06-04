@@ -50,11 +50,13 @@
 <div align="center">
 
 <!-- 统计卡片 -->
-<img src="https://github-readme-stats.vercel.app/api?username=2451503918&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false&locale=cn&bg_color=0D1117&title_color=5B86E5&icon_color=36D1DC&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2451503918&layout=compact&theme=radical&hide_border=false&include_all_commits=false&count_private=false&locale=cn&bg_color=0D1117&title_color=5B86E5&text_color=C9D1D9" width="39%" />
+<img src="https://github-readme-stats.vercel.app/api?username=2451503918&show_icons=true&theme=radical&hide_border=true&include_all_commits=false&count_private=false&locale=cn" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2451503918&layout=compact&theme=radical&hide_border=true&include_all_commits=false&count_private=false&locale=cn" width="39%" />
+
+<br/><br/>
 
 <!-- 连续打卡 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=2451503918&theme=radical&hide_border=false&locale=cn&background=0D1117&ring=5B86E5&fire=36D1DC&currStreakLabel=5B86E5&sideLabels=36D1DC" width="50%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=2451503918&theme=radical&hide_border=true&locale=cn" width="50%" />
 
 </div>
 
@@ -64,7 +66,18 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=2451503918&theme=radical&no-frame=false&no-margin=true&margin-w=4&column=7&locale=cn&bg_color=0D1117&title_color=5B86E5" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=2451503918&theme=radical&no-frame=true&no-margin=true&margin-w=4&column=7&locale=cn" width="100%" />
+
+</div>
+
+---
+
+### 📊 贡献日历
+
+<div align="center">
+
+<!-- 贡献日历 -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=2451503918&bg_color=0D1117&color=5B86E5&line=36D1DC&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" width="95%" />
 
 </div>
 
@@ -74,7 +87,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/2451503918/2451503918/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<!-- 贪吃蛇动画 - 等待 GitHub Actions 生成 -->
+*贪吃蛇动画将在下次 GitHub Actions 运行后显示*
+
+<!-- 备用：直接使用服务生成 -->
+<img src="https://raw.githubusercontent.com/2451503918/output/main/github-contribution-grid-snake-dark.svg" width="100%" onerror="this.style.display='none'" />
 
 </div>
 
@@ -84,18 +101,21 @@
 
 <div align="center">
 
-<!-- 项目卡片 -->
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/2451503918/lovegirl">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2451503918&repo=lovegirl&theme=radial&bg_color=0D1117&title_color=5B86E5&icon_color=36D1DC&text_color=C9D1D9&border_color=30363D" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2451503918&repo=lovegirl&theme=radical" />
       </a>
+      <br/>
+      <sub>💕 精美的爱情故事网站模板</sub>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/2451503918/astrbot_plugin_sese">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2451503918&repo=astrbot_plugin_sese&theme=radial&bg_color=0D1117&title_color=5B86E5&icon_color=36D1DC&text_color=C9D1D9&border_color=30363D" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2451503918&repo=astrbot_plugin_sese&theme=radical" />
       </a>
+      <br/>
+      <sub>🤖 AstrBot Python 插件</sub>
     </td>
   </tr>
 </table>
@@ -108,7 +128,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=2451503918&color=blueviolet&style=flat-square&label=个人主页访问量&bg_color=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=2451503918&color=blueviolet&style=flat-square&label=个人主页访问量" />
 
 </div>
 
@@ -118,11 +138,17 @@
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
 
 ---
+
+<div align="center">
+
+**💡 "代码如爱，需用心创造。" 💡**
+
+</div>
 
 <!-- 底部波浪 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:36D1DC&height=120&section=footer" width="100%"/>
