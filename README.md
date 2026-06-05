@@ -50,93 +50,11 @@ motto: "代码如爱，需用心创造 ❤️"
 
 ---
 
-## 📊 GitHub 统计
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=2451503918&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2451503918&layout=compact&theme=tokyonight&hide_border=true&locale=cn" width="39%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=2451503918&theme=tokyonight&hide_border=true&locale=cn" width="50%" />
-
-</div>
-
----
-
-## 🏆 成就
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=2451503918&theme=algolia&no-frame=true&no-margin=true&column=7&locale=cn" width="100%" />
-
-</div>
-
----
-
 ## 🐍 贡献贪吃蛇
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/2451503918/2451503918/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
-## 📈 贡献日历
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2451503918&bg_color=0D1117&color=5B86E5&line=36D1DC&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" width="95%" />
-
-</div>
-
----
-
-## 📌 精选项目
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/2451503918/lovegirl">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2451503918&repo=lovegirl&theme=tokyonight" />
-      </a>
-      <br/>
-      <sub>💕 精美的爱情故事网站模板</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/2451503918/astrbot_plugin_sese">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=2451503918&repo=astrbot_plugin_sese&theme=tokyonight" />
-      </a>
-      <br/>
-      <sub>🤖 AstrBot Python 插件</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 📊 访客统计
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=2451503918&color=blueviolet&style=flat-square&label=Profile+Views" />
-
-</div>
-
----
-
-## ✍️ 每日名言
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
