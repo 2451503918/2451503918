@@ -1,0 +1,31 @@
+name: 自动刷步数
+
+on:
+  schedule:
+    # 每天 UTC 00:00（北京时间 08:00）执行
+    - cron: '0 0 * * *'
+  # 支持手动触发
+  workflow_dispatch:
+
+jobs:
+  sync-steps:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: pip install requests
+
+      - name: 执行刷步
+        env:
+          ZEPP_USER: ${{ secrets.ZEPP_USER }}
+          ZEPP_PWD: ${{ secrets.ZEPP_PWD }}
+          MIN_STEP: ${{ vars.MIN_STEP || '18000' }}
+          MAX_STEP: ${{ vars.MAX_STEP || '25000' }}
+        run: python scripts/auto_steps.py

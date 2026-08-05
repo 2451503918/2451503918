@@ -1,0 +1,18 @@
+{
+  "name": "StepSync · 步数同步",
+  "short_name": "StepSync",
+  "description": "精美易用的运动步数管理工具",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
